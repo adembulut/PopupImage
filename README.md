@@ -13,7 +13,7 @@
 #Step 2 : Add the dependency
 
     dependencies {
-	        implementation 'com.github.adembulut:SamplePopupImage:0.52'
+	        implementation 'com.github.adembulut:PopupImage:0.52'
 	}
 
  #Step 3:
